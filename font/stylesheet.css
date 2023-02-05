@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Monaco';
+    src: url('Monaco.eot');
+    src: url('Monaco.eot?#iefix') format('embedded-opentype'),
+        url('Monaco.woff2') format('woff2'),
+        url('Monaco.woff') format('woff'),
+        url('Monaco.ttf') format('truetype'),
+        url('Monaco.svg#Monaco') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaFang SC';
+    src: url('MonaFangSC-Medium.eot');
+    src: url('MonaFangSC-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MonaFangSC-Medium.woff2') format('woff2'),
+        url('MonaFangSC-Medium.woff') format('woff'),
+        url('MonaFangSC-Medium.ttf') format('truetype'),
+        url('MonaFangSC-Medium.svg#MonaFangSC-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: url('PingFangSCMedium.eot');
+    src: url('PingFangSCMedium.eot?#iefix') format('embedded-opentype'),
+        url('PingFangSCMedium.woff2') format('woff2'),
+        url('PingFangSCMedium.woff') format('woff'),
+        url('PingFangSCMedium.ttf') format('truetype'),
+        url('PingFangSCMedium.svg#PingFangSCMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LogoSC LongZhuTi';
+    src: url('LogoSCLongZhuTi-Regular.eot');
+    src: url('LogoSCLongZhuTi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LogoSCLongZhuTi-Regular.woff2') format('woff2'),
+        url('LogoSCLongZhuTi-Regular.woff') format('woff'),
+        url('LogoSCLongZhuTi-Regular.ttf') format('truetype'),
+        url('LogoSCLongZhuTi-Regular.svg#LogoSCLongZhuTi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
